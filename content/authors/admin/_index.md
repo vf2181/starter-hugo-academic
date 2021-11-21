@@ -33,6 +33,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Vitalay Fomin is a Biomarker discovery data scientist leveraging real world and clinical trial data to reveal mechanisms of drug resistance. This helps drive efforts in patient enrichment strategies, biomarker discovery and reverse translation drug discovery. In my previous role I used multiple biochemistry and molecular biology techniques to investigate molecular mechanisms/signaling cascades contributing to cancer progression. I am very passionate about combining my expertise in cancer biology with advanced computational tools to drive actionable biomarker and drug discovery efforts.
+Vitalay Fomin is a Biomarker discovery data scientist leveraging real world and clinical trial data to reveal mechanisms of drug resistance. He helps drive efforts in patient enrichment strategies, biomarker discovery and reverse translation drug discovery. In my previous role I used multiple biochemistry and molecular biology techniques to investigate molecular mechanisms/signaling cascades contributing to cancer progression. I am very passionate about combining my expertise in cancer biology with advanced computational tools to drive actionable biomarker and drug discovery efforts.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
