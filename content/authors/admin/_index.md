@@ -2,8 +2,8 @@
 title: Vitalay Fomin
 role: Curious Scientist
 avatar_filename: 1555775552505.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include genomics, drug discovery, data science, real
+  world data (RWD), biomarkers
 interests:
   - Understanding of disease etiology
   - Computational tools
