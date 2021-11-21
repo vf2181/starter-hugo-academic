@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Vitalay Fomin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Curious Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Roche
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Understanding of disease etiology
+- Computational tools
+- Real World Data
+- Big Data
 
 # Education to show in About widget
 education:
